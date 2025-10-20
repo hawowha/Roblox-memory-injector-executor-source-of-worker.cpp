@@ -20,7 +20,7 @@
 // for this ntdll.h file is on : https://raw.githubusercontent.com/hawowha/Roblox-memory-injector-executor-source-of-worker.cpp/refs/heads/main/ntdll.h
 
 // updated for roblox version-7a4a5d7d1fb3449f 
-// by codecat - 程序猫 / Xeno's Executor
+// by codecat - 程序猫 / Xeno
 
 namespace offsets {
     // Instance
