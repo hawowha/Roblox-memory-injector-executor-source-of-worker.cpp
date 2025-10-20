@@ -5,8 +5,6 @@ A C++ memory manipulation tool for interacting with Roblox game clients through 
 ## ⚠️ Disclaimer
 
 **This project is for educational and research purposes only.**
-- Violates Roblox Terms of Service
-- May result in account banning
 - Use at your own risk
 
 ## Features
@@ -17,4 +15,4 @@ A C++ memory manipulation tool for interacting with Roblox game clients through 
 - **Script Execution**: Inject and execute custom Lua scripts
 - **Luau Compilation**: Compile Lua source code to Roblox-compatible bytecode
 
-  ## Made by codecat - 程序猫
+**Made by codecat - 程序猫**
