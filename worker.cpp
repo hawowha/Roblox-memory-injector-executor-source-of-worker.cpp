@@ -14,10 +14,10 @@
 #include "Luau/Compiler.h"
 #include "Luau/BytecodeBuilder.h"
 #include "Luau/BytecodeUtils.h"
-// for Luau files its on : https://github.com/luau-lang/luau
+// for Luau files its on : https://github.com/luau-lang/luau, download it and find the files
 
 #include "utils/ntdll.h" 
-// for this ntdll.h file is on : 
+// for this ntdll.h file is on : https://raw.githubusercontent.com/hawowha/Roblox-memory-injector-executor-source-of-worker.cpp/refs/heads/main/ntdll.h
 
 // updated for roblox version-7a4a5d7d1fb3449f 
 // by codecat - 程序猫 / Xeno's Executor
